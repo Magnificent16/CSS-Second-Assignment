@@ -1,0 +1,65 @@
+body{
+    display: block;
+    background-color: maroon;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: lighter;
+    font-style: normal;
+    }
+
+    h1{
+        font-size: 100pt;
+        color: #fff;
+    
+    font-size: 100pt;
+    color: white;
+    
+    }
+    p{
+        color: whitesmoke;
+    }
+    .center{
+    background-color: rgb(126, 21, 21);
+    background-image: url(/images/Keyboard.jpeg);
+    background-size: cover;
+    background-position: center;
+    padding: 5pt;
+    background-blend-mode: overlay;
+    }
+    /* .img{
+    margin: 50pt;
+    margin-left: 50pt;
+    margin-top: 50px;
+    width: 1000px;
+    } */
+    #img-caption{
+    color: white;
+    font-size: 20pt;
+    }
+    
+    #headings{
+    color: white;
+    font-size: 20pt;
+    }
+    #list{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start:  0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    }
+    
+    li{
+       margin: 16px 0;
+    }
+    ul{
+        max-width:550px ;
+        margin: 0 auto 50px auto;
+        text-align: left;
+        line-height: 1.6;
+    }
